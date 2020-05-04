@@ -1,2 +1,2 @@
-# Husune-Miku-project
-Husune Miku project(Api Development)
+# Hutsune-Miku-project
+Hutsune Miku project(Api Development)
